@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import { Download, ArrowDown, Code, Database, Server } from 'lucide-react';
-import Image from 'next/image';
 
 const Hero = () => {
   const skills = [

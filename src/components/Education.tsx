@@ -199,8 +199,8 @@ const Education = () => {
             <GraduationCap className="w-16 h-16 mx-auto mb-6 opacity-80" />
             <h3 className="text-2xl font-bold mb-4">Continuous Learning Journey</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
-              My education at Najot ta'lim provided a solid foundation in programming and full-stack development. 
-              I believe that learning never stops in the tech industry, and I'm committed to staying updated 
+              My education at Najot ta&apos;lim provided a solid foundation in programming and full-stack development. 
+              I believe that learning never stops in the tech industry, and I&apos;m committed to staying updated 
               with the latest technologies and best practices.
             </p>
           </div>

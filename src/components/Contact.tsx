@@ -54,7 +54,7 @@ const Contact = () => {
           </div>
           <div className="w-24 h-1 bg-gradient-to-r from-purple-600 to-blue-600 mx-auto"></div>
           <p className="text-xl text-gray-600 mt-6 max-w-3xl mx-auto">
-            Ready to start your next project? Let's discuss how we can work together 
+            Ready to start your next project? Let&apos;s discuss how we can work together 
             to bring your ideas to life.
           </p>
         </motion.div>
@@ -68,7 +68,7 @@ const Contact = () => {
             transition={{ duration: 0.8 }}
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-8">
-              Let's Connect
+              Let&apos;s Connect
             </h3>
             
             <div className="space-y-6">
@@ -214,8 +214,8 @@ const Contact = () => {
               Ready to Work Together?
             </h3>
             <p className="text-lg text-gray-600 mb-6 max-w-2xl mx-auto">
-              I'm always excited to take on new challenges and create amazing digital experiences. 
-              Let's discuss your next project and bring your vision to life.
+              I&apos;m always excited to take on new challenges and create amazing digital experiences. 
+              Let&apos;s discuss your next project and bring your vision to life.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <motion.a

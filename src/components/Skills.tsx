@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Code, Database, Server, Wrench, Languages, Globe } from 'lucide-react';
+import { Code, Database, Server, Wrench, Languages } from 'lucide-react';
 
 const Skills = () => {
   const skillCategories = [
@@ -72,7 +72,7 @@ const Skills = () => {
           </div>
           <div className="w-24 h-1 bg-gradient-to-r from-purple-600 to-blue-600 mx-auto"></div>
           <p className="text-xl text-gray-600 mt-6 max-w-3xl mx-auto">
-            Technical skills and languages I've mastered through continuous learning and practice
+            Technical skills and languages I&apos;ve mastered through continuous learning and practice
           </p>
         </motion.div>
 
@@ -169,7 +169,7 @@ const Skills = () => {
           <div className="bg-gradient-to-r from-purple-600 to-blue-600 rounded-2xl p-8 text-white">
             <h3 className="text-2xl font-bold mb-4">Always Learning</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
-              Technology evolves rapidly, and so do I. I'm constantly expanding my skill set, 
+              Technology evolves rapidly, and so do I. I&apos;m constantly expanding my skill set, 
               exploring new frameworks, and staying updated with the latest industry trends 
               to deliver cutting-edge solutions.
             </p>

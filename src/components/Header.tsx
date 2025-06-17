@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Menu, X, Phone, Mail, Github, Linkedin, MessageCircle } from 'lucide-react';
+import { Menu, X, Phone, Github, Linkedin, MessageCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const Header = () => {
